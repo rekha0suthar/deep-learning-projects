@@ -1,13 +1,3 @@
----
-title: Ml Demo
-emoji: 🦀
-colorFrom: purple
-colorTo: pink
-sdk: gradio
-sdk_version: 3.16.2
-app_file: app.py
-pinned: false
-license: apache-2.0
----
+Demo:-
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+"C:\Users\rekha\Downloads\Screenshot 2023-03-25 104248.png"
